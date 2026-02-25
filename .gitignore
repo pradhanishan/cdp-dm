@@ -208,3 +208,6 @@ __marimo__/
 
 warehouse/
 .vscode
+
+
+.DS_Store
